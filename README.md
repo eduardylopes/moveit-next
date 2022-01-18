@@ -2,7 +2,7 @@
    <img src="https://user-images.githubusercontent.com/60992933/149850854-b108e6c1-b050-4f51-8649-570660d65528.png" alt="Move.it" width="280"/>
 </p>
 
-<b>Move.it</b> é um projeto construído em React com TypeScript, utilizando NextJS, durante Next Level Week #04 da [Rocketseat](https://github.com/Rocketseat). Esse projeto tem como objetivo melhorar a produtividade e foco utilizando a técnica [promodoro](https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro)
+<b>Move.it</b> é um projeto construído em React com TypeScript, utilizando NextJS, durante Next Level Week #04 da [Rocketseat](https://github.com/Rocketseat). Esse projeto tem como objetivo melhorar a produtividade e foco utilizando a técnica [promodoro](https://pt.wikipedia.org/wiki/T%C3%A9cnica_pomodoro).
 
 ### Conteúdo
 
@@ -12,8 +12,8 @@
 ### Demostração
 
 <div>
-  <img src="https://user-images.githubusercontent.com/60992933/149849604-0b822cf0-a5c8-425b-8304-526d953ad2d7.png" width="400" />
-  <img src="https://user-images.githubusercontent.com/60992933/149849605-16c6a72d-13d9-4cc7-98b9-d80df1da0ea1.png" width="400" />
+  <img src="" width="400" />
+  <img src="" width="400" />
 </div>
 
 ### Tecnologias
